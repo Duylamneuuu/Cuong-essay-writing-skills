@@ -1,0 +1,6 @@
+interface:
+  display_name: "Vietnamese Essay Coach"
+  short_description: "Plan and polish clear Vietnamese academic essays"
+  default_prompt: "Use $vietnamese-essay-writing-coach to help me plan and revise my Vietnamese academic essay."
+policy:
+  allow_implicit_invocation: true
