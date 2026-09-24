@@ -1,66 +1,80 @@
 # Style and Review Guide
 
-Use this reference when shaping paragraphs, coaching a writer through a draft, or giving a close review. Adapt the guidance to the assignment, discipline, and writer; it is not a formula for every paragraph.
+Use this when shaping a section, revising a draft, or reviewing Hoàng Quốc Cường's Vietnamese academic prose. The moves below are the target shape. They are not a sentence bank. Do not copy lines from his earlier essays.
 
-## Voice: clear, grounded, and academic
+## What the prose is
 
-- Start where the reader can see the issue: a decision, change, tension, example, or well-supported fact. Keep background only when it helps frame the question.
-- Explain how or why the issue works before judging it. Name the actors and actions rather than hiding them in abstract nouns.
-- Prefer precise everyday Vietnamese when it says the idea accurately. Keep necessary disciplinary terms, define them once, and use them consistently.
-- Use concrete examples to make an argument easier to follow. Tie each example to one claim and state what it can and cannot establish.
-- Vary sentence length and paragraph openings. A short sentence can clarify a distinction; a longer one can explain a relationship. Do not force every paragraph into the same shape.
-- Make transitions express the connection between ideas. Replace repeated “vì vậy,” “bên cạnh đó,” or “điều này cho thấy” when the logic can be stated directly.
-- Keep the conclusion decisive but proportionate. Answer the question, summarize the reasoning, and note an important limit when needed. Avoid generic moral lessons or dramatic claims unsupported by the essay.
+Spoken academic Vietnamese. The sentence is long because it turns: expectation, then “ấy nhưng” or “tuy vậy”, then the sharper reading. “Chính là”, “không chỉ… mà còn”, and “không những… mà còn” mark the turn. They are not filler to sprinkle in.
 
-Readable academic prose is not casual chat. Remove filler, slang, unfinished thoughts, and accidental repetition while retaining a natural rhythm. Do not add jargon just to make a sentence sound formal.
+“Ta” reasons. “em” only reports a memory he supplied. Course terms stay. Each term is defined once in plain words, then used as if the reader now has it. A quoted everyday label can name the issue. A simple image can carry a two-sided category. Slang does not replace the term.
 
-## Paragraph checks
+Fix slips while keeping the rhythm: doubled “và”, broken words, a claim wider than the case. Do not replace the long pivot with a stack of short textbook sentences.
 
-A paragraph may, depending on its purpose:
+## How a section unfolds
 
-- introduce a specific issue or claim;
-- establish what happened using a source;
-- explain a concept or mechanism;
-- compare alternatives or evidence;
-- interpret a result and its limits;
-- connect an established point to the next section.
+Philosophy essay, no required headings:
 
-Ask:
+| Move | What appears |
+|---|---|
+| Open | Era, classroom, or plain definition, then the broken expectation |
+| Lens | Simple meaning, then the assigned category |
+| Two sides | Mặt thứ nhất, mặt bên kia, image, unity, struggle, which side leads for now, plain restatement |
+| Case | One scene, number, or named person he supplied; what it shows and where it stops |
+| Scale | One step up to class, firm, or institution; same contradiction |
+| Limit | They knew and answered halfway, or the new has not escaped the old |
+| Mechanism | Main contradiction versus side one; one method tied to the category |
+| Em | Supplied failure, then slow change of habit and surroundings |
+| Close | Phenomenon through the lens, temporary not fate, charge only if earned |
 
-1. What single question is this paragraph answering?
-2. Which sentence states its point?
-3. What evidence, example, or reasoning supports that point?
-4. Does the explanation show why that support matters?
-5. Does the final sentence advance the argument, or merely repeat it?
-6. Does the paragraph belong under this heading?
+Report section with a required heading:
 
-If a paragraph has two unrelated jobs, divide or move the material. If it summarizes information without interpretation, explain its relevance. If it makes a claim without support, find suitable evidence, narrow the claim, or label it as a question for the writer.
+1. Define the term the heading names.
+2. Say what full recognition would include.
+3. Show, from the source, what they did see.
+4. Pivot: the limit is the halfway response, the defensive habit, or the speed they did not reckon with.
+5. One comparison or figure from the supplied material.
+6. “Tóm lại”, “Nhìn lại”, or “Kết luận lại” pins that limit in one sentence.
 
-## Keep evidence and interpretation distinct
+Skip a move the assignment does not allow. A two-sided category is required only when the brief uses one. An “em” paragraph is required only when he supplied the experience or the brief asks for it.
 
-For each important claim, identify:
+## Before and after
 
-- the exact source and relevant passage, table, or data;
-- what the source directly establishes;
-- the essay's reasoning from that evidence to its claim;
-- scope limits such as period, place, population, sample, unit, and method.
+Assignment: áp lực học tập, quy luật lượng đổi — chất đổi. Supplied fact: em hay ôn vào đêm trước khi kiểm tra.
 
-Do not treat an example as proof of a general rule, a correlation as causation, or a documented action as proof of motive. Avoid attributing opinions or experiences to the writer unless they supplied them. When a source cannot be checked, flag the gap instead of filling it with a plausible-sounding detail.
+Textbook shape to reject:
+
+> Áp lực học tập là hiện tượng phổ biến. Theo quy luật lượng đổi — chất đổi, sự thay đổi về lượng dẫn đến sự thay đổi về chất. Em thường học vào đêm trước kiểm tra. Em nên chia nhỏ mục tiêu và quản lý thời gian.
+
+Target shape:
+
+> Giữa lịch học, bài tập và kỳ kiểm tra dồn lại, áp lực học tập thoạt nhìn chỉ là chuyện em thức khuya ôn vào đêm trước ngày thi, ấy nhưng theo quy luật lượng đổi — chất đổi thì mỗi lần học gấp không chỉ thêm một buổi mệt. Lượng thời gian, số bài và mức lo âu cộng dần, cách học vẫn là cách cũ, cho đến khi vượt ngưỡng thì chất của việc học đổi: kiến thức vào đầu rời rạc, thái độ từ chủ động thành chịu đựng. Vậy nên hiểu đơn giản lại, đêm ôn thi ấy chưa phải bước nhảy về chất; nó là phần lượng đang chất lên. Muốn chất đổi theo hướng đi lên, mâu thuẫn chủ yếu nằm ở cách học, không nằm ở một mẹo nhắc giờ.
+
+## Review checks
+
+1. What single question is this section answering?
+2. Where is the ordinary reading, and where does the lens turn?
+3. If two sides are required, are both named, then unity, struggle, and the side that is ahead?
+4. Which sentence states the precise limit?
+5. Does the case stay inside what he supplied or what the source shows?
+6. Does the scale repeat the same contradiction?
+7. Is the solution one mechanism, or a list of tips?
+8. Does “em” appear only for a supplied memory?
+9. Does the close answer the task without a moral the body did not earn?
+
+If a section has two unrelated jobs, divide or move the material. If it summarizes theory without a case, add the case or mark the gap. If a claim is wider than the support, narrow it the way a section close narrows a limit.
 
 ## Revise in layers
 
 1. **Purpose:** Does the essay answer the assigned task?
-2. **Argument:** Is the main answer clear, and does each section help establish it?
+2. **Unfolding:** Are the lens, case, limit, and mechanism in place?
 3. **Evidence:** Are sources relevant, verifiable, and used within their limits?
-4. **Paragraphs:** Does each paragraph have one main job and enough explanation?
-5. **Sentences:** Are subjects clear, verbs direct, and terms consistent?
-6. **Voice:** Does the prose sound natural for the writer and suitable for the assignment?
-7. **Presentation:** Are citations, references, headings, spacing, pagination, tables, and exported pages correct?
+4. **Cadence:** Do the sentences turn, with “ta” and “em” in the right places?
+5. **Presentation:** Are citations, references, headings, spacing, pagination, tables, and exported pages correct?
 
-Fix higher-level problems before polishing individual phrases. For review-only work, report the issue and a possible fix without editing the file. Separate must-fix problems from optional improvements.
+Fix higher-level problems before polishing phrases. For review-only work, report the issue and a possible fix without editing the file. Separate must-fix problems from optional improvements.
 
 ## Guided writing
 
-When teaching a section, explain its job in one or two plain sentences. Ask the writer for their own point, source, example, or experience. If a model helps, write a short example from a neutral, invented topic and identify its purpose; do not present the model as a source or as the student's experience.
+Say the next move in one or two plain sentences. Ask him for the point, the source, the scene, or the memory. A model uses a neutral invented topic and is labeled as a model. Do not present it as his experience or as a source.
 
-When revising, preserve claims that are supported and retain the writer's meaning. Explain substantive changes, especially when narrowing a claim or moving material. Follow explicit instructions about which parts may be edited. Never imitate a specific person's exact voice or reproduce their sample wording; generalize techniques such as clarity, concrete evidence, and logical transitions.
+When revising, keep claims that are supported. Explain a substantive change, especially when a claim is narrowed or a section is moved. Never reproduce a sentence from his sample essays.
