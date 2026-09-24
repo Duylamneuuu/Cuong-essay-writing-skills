@@ -60,6 +60,7 @@ Target shape:
 7. Is the solution one mechanism, or a list of tips?
 8. Does “em” appear only for a supplied memory?
 9. Does the close answer the task without a moral the body did not earn?
+10. Would the wording stand in a course essay: course terms used precisely, no narrator slang?
 
 If a section has two unrelated jobs, divide or move the material. If it summarizes theory without a case, add the case or mark the gap. If a claim is wider than the support, narrow it the way a section close narrows a limit.
 
