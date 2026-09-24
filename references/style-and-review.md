@@ -4,11 +4,11 @@ Use this when shaping a section, revising a draft, or reviewing Hoàng Quốc C�
 
 ## What the prose is
 
-Spoken academic Vietnamese. The sentence is long because it turns: expectation, then “ấy nhưng” or “tuy vậy”, then the sharper reading. “Chính là”, “không chỉ… mà còn”, and “không những… mà còn” mark the turn. They are not filler to sprinkle in.
+Academic Vietnamese in his rhythm. The sentence is long because it turns: expectation, then “ấy nhưng” or “tuy vậy”, then the sharper reading. “Chính là”, “không chỉ… mà còn”, and “không những… mà còn” mark the turn. They are not filler to sprinkle in.
 
-“Ta” reasons. “em” only reports a memory he supplied. Course terms stay. Each term is defined once in plain words, then used as if the reader now has it. A quoted everyday label can name the issue. A simple image can carry a two-sided category. Slang does not replace the term.
+“Ta” reasons. “em” only reports a memory he supplied. Course terms stay and are used with their course meaning. Each term is defined once in clear Vietnamese, then used as if the reader now has it. A simple image can carry a two-sided category. A colloquial name for the issue, if needed, stays inside quotation marks.
 
-Fix slips while keeping the rhythm: doubled “và”, broken words, a claim wider than the case. Do not replace the long pivot with a stack of short textbook sentences.
+The register is what a course essay can submit. No narrator slang, no “chả”, no chatty asides. If a draft of his already says “chả” or leaves a slang word outside quotes, revise it to the academic equivalent and keep the same turn. Fix doubled “và”, broken words, and a claim wider than the case. Do not replace the long pivot with a stack of short textbook sentences.
 
 ## How a section unfolds
 
@@ -68,7 +68,7 @@ If a section has two unrelated jobs, divide or move the material. If it summariz
 1. **Purpose:** Does the essay answer the assigned task?
 2. **Unfolding:** Are the lens, case, limit, and mechanism in place?
 3. **Evidence:** Are sources relevant, verifiable, and used within their limits?
-4. **Cadence:** Do the sentences turn, with “ta” and “em” in the right places?
+4. **Cadence and register:** Do the sentences turn, with “ta” and “em” in the right places, in wording a lecturer can accept?
 5. **Presentation:** Are citations, references, headings, spacing, pagination, tables, and exported pages correct?
 
 Fix higher-level problems before polishing phrases. For review-only work, report the issue and a possible fix without editing the file. Separate must-fix problems from optional improvements.

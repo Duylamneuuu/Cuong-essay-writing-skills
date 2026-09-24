@@ -1,6 +1,6 @@
 interface:
   display_name: "Vietnamese Essay Coach"
-  short_description: "Draft and revise Vietnamese essays in Cường's cadence"
+  short_description: "Draft academic Vietnamese in Cường's cadence"
   default_prompt: "Use $vietnamese-essay-writing-coach to plan or revise my Vietnamese academic essay in my usual way of unfolding an argument."
 policy:
   allow_implicit_invocation: true

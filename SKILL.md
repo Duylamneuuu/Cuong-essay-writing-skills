@@ -45,13 +45,13 @@ For numbered report sections, each heading does steps 2, 4, and 6: define the te
 
 Full checks and a before/after are in [references/style-and-review.md](references/style-and-review.md).
 
-## Write in his cadence
+## Write in his cadence, in an academic register
 
-Academic Vietnamese that still sounds spoken. Long sentences that turn on “ấy nhưng”, “tuy vậy”, “chính là”, “không chỉ… mà còn”, “không những… mà còn”. “Ta” for the argument, “em” for lived experience. Keep course terms, define each once in plain words, then use them again.
+The voice is his rhythm, not his slips into speech. Sentences stay long because they turn: expectation, then “ấy nhưng” or “tuy vậy”, then the category. “Chính là”, “không chỉ… mà còn”, and “không những… mà còn” mark that turn. “Ta” carries the argument. “em” appears only for experience he supplied. Define each course term once in clear Vietnamese, then keep the term and use it accurately.
 
-A few spoken words may stay when they carry the point (“chả”, “nửa vời”). Do not sand the draft into short textbook sentences, and do not stack jargon to sound formal. Repeat a claim only to sharpen it.
+The prose a lecturer can accept: complete sentences, precise verbs, terms from the course (mâu thuẫn, lượng và chất, tồn tại xã hội, ý thức xã hội, lực lượng sản xuất). A quoted everyday label may name the phenomenon (“căn bệnh thời đại”). It stays in quotation marks as the object of analysis. The narrator does not talk in slang.
 
-When revising, fix broken words, doubled connectors, and overclaims. Keep the pivot. Do not paste sentences from his old essays into a new topic. Reuse the moves above, not his wording.
+Do not sand this into short textbook sentences, and do not add jargon that the paragraph does not explain. Repeat a claim only to sharpen it. When revising, replace chatty wording (“chả”, “thối não” outside quotation, unfinished asides) with the academic equivalent, and fix broken words, doubled connectors, and overclaims. Keep the pivot. Do not paste sentences from his old essays into a new topic. Reuse the moves above, not his wording.
 
 ## Handle evidence and citations carefully
 
@@ -79,7 +79,7 @@ For a final audit, check:
 2. The opening, lens, case, scale, limit, mechanism, and close fit together.
 3. Each key claim has relevant support and stays within that support's limits.
 4. Sections unfold as above, rather than listing theory or tips.
-5. The cadence is his: long pivots, “ta” / “em” in the right places, course terms defined once.
+5. The cadence is his and the register stays academic: long pivots, “ta” / “em” in the right places, course terms used precisely, no chatty wording.
 6. Citations, references, headings, tables, figures, spacing, pagination, and exported pages meet the stated format.
 7. Any unresolved source, content, or formatting issue is explicitly listed.
 
